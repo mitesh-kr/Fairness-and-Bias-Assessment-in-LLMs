@@ -5,7 +5,7 @@ This repository contains code to test various types of biases in the LLaVA visio
 ## Repository Structure
 
 ```
-llava-bias-testing/
+Fairness-and-Bias-Assessment-in-LLMs/
 ├── README.md               # This file
 ├── requirements.txt        # Python dependencies
 ├── bias_test.py            # Main script for running bias tests
