@@ -1,6 +1,7 @@
-torch>=2.0.0
+torch>=2.6.0+cu124
 transformers==4.36.2
-gradio>=3.50.2
-Pillow>=9.0.0
 requests>=2.28.0
 bitsandbytes>=0.42.0
+requests: 2.32.3
+gradio: 3.35.2
+Pillow: 11.1.0
