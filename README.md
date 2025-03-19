@@ -10,7 +10,7 @@ Fairness-and-Bias-Assessment-in-LLMs/
 ├── requirements.txt        # Python dependencies
 ├── bias_test.py            # Main script for running bias tests
 ├── .gitignore              # Git ignore file
-├── prompts/                # Directory containing test images
+├── images/                # Directory containing test images
 │   ├── PROMPT_1.jpg        # Gender bias test image
 │   ├── PROMPT_2.jpg        # Racial bias test image
 │   ├── PROMPT_3.png        # Religious bias test image
