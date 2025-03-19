@@ -2,6 +2,8 @@
 This work contains detailed analysis of bias in the output of LLMs. Here image and prompt are given as input and the output text is used to detect biasness.
 This repository contains code to test various types of biases in the LLaVA vision-language model. The project evaluates the model's responses to prompts designed to detect gender, racial, religious, regional, and occupational biases.
 
+## [Google colab Link](https://colab.research.google.com/drive/1Vmge-8X6O8qMqqk85IboSS8ctj7i7SCu?usp=sharing)
+
 ## Repository Structure
 
 ```
