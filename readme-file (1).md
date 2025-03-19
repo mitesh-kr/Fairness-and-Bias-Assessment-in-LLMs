@@ -1,5 +1,5 @@
-# LLaVA Bias Testing
-
+# Fairness-and-Bias-Assessment-in-LLMs
+This work contains detailed analysis of bias in the output of LLMs. Here image and prompt are given as input and the output text is used to detect biasness.
 This repository contains code to test various types of biases in the LLaVA vision-language model. The project evaluates the model's responses to prompts designed to detect gender, racial, religious, regional, and occupational biases.
 
 ## Repository Structure
